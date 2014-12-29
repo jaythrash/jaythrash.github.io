@@ -1,0 +1,20 @@
+---
+layout: post
+title: "Speaking at 360iDev 2014"
+date: 2014-06-24 09:19:21 -0400
+comments: true
+categories: blog
+---
+
+[360iDev] is the largest independent conference for iOS and OS X developers and this fall it returns to downtown Denver. I’m very excited to be invited back as a speaker! 
+
+This year, I will be leading two sessions:
+
+* [App Prototyping 101: From Paper to Product](http://360idev.com/sessions/app-prototyping-101-from-paper-to-product/): A fun, hands-on workshop which covers a wide range of tools and techniques for prototyping your app; from paper and pen sketches to interactive, animated mockups which allow you to rapidly try out multiple ideas with real users before before ever launching Xcode.
+
+* [Building Better ViewControllers](http://360idev.com/sessions/200-good-intentions-a-path-to-building-better-view-controllers/): In this session, we will learn how to unburden our View Controllers by applying the Single Responsibility Principle and delegation through functional Intentions. We’ll find that by adopting the principles of “Lighter” View Controllers our code becomes much more robust to change, yet remains easy to maintain and test.
+
+360iDev sells out every year, so [Register today] before the tickets are gone!
+
+[360iDev]: http://360idev.com
+[Register today]: http://360idev.com/#tile_registration

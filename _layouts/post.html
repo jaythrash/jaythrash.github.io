@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+
+{% include head.html %}
+
+<!-- {{body_class}} -->
+<body class="single single-post">
+
+
+    {% include header.html %}
+
+	<main role="main">
+	    <div id="main" class="row">
+	        <div class="row-content buffer-left buffer-right buffer-bottom clear-after">
+	            <div class="post-area clear-after">
+	                <article role="main" class="column nine">
+	                    <h1>{{page.title}}</h1>
+	                    <p>{{content}}</p>
+	                </article>
+
+	                {% include sidebar.html %}
+
+	            </div>
+	        </div>
+	    </div>
+	</main>
+
+    {% include footer.html %}
+    
+</body>
+</html>

@@ -1,0 +1,15 @@
+---
+layout: post
+title: "Renegade"
+date: 2011-06-15 09:50
+comments: true
+categories: blog
+---
+
+![Osceola and Renegade]
+
+Seminoles finally getting some mascot representation in EA NCAA Football 12.
+
+Long. Overdue.
+
+[Osceola and Renegade]: /images/osceola.jpg

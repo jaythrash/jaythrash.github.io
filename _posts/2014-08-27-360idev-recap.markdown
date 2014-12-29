@@ -1,0 +1,18 @@
+---
+layout: post
+title: "360iDev Recap"
+date: 2014-08-27 21:41:34 -0600
+comments: true
+categories: blog
+---
+
+Another great [360iDev] is drawing to a close. It was great getting know so many new people and catch up with all the friends I've made over the past 4 times I've attended the conference. 
+
+The slides for my [Prototyping workshop] and [View Controllers] presentation are can be found on my Talks page.  When the session videos are posted, I'll update those pages to include links to them as well. Thanks again to everyone that came out and attendend my sessions! 
+
+[Prototyping workshop]: http://jaythrash.com/blog/2014/08/24/prototyping-101/
+
+[View Controllers]: http://jaythrash.com/blog/2014/08/25/building-better-viewcontrollers
+
+[360iDev]: http://360idev.com
+

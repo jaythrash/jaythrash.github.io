@@ -1,0 +1,21 @@
+---
+layout: post
+title: "Prototyping 101"
+date: 2014-08-24 21:39:20 -0600
+comments: true
+categories: talks
+---
+
+This presentation was originally given at [360iDev](http://360idev.com) in Denver, CO on August 24, 2014.
+
+Summary
+-------
+
+App prototyping is a powerful technique for quickly iterating, analyzing, and improving your app designs. The importance of prototyping cannot be underestimated when it comes to validating everything from the user experience, the interaction design, and the problem we are trying to solve as app designers and developers.
+
+In this fun, hands-on workshop, we will cover a wide range of tools and techniques for prototyping your app; from paper and pen sketches to interactive, animated mockups which allow you to rapidly try out multiple ideas with real users before before ever launching Xcode.
+
+Slides
+------
+
+<script async class="speakerdeck-embed" data-id="78b70940104f01324de07ae407783e32" data-ratio="1.6" src="//speakerdeck.com/assets/embed.js"></script>

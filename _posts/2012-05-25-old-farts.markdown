@@ -1,0 +1,16 @@
+---
+layout: post
+title: "Old Farts Know How to Code"
+date: 2012-05-25 12:29
+comments: false
+link: http://nick.typepad.com/blog/2012/05/old-farts-know-how-to-code.html
+categories: blog
+---
+
+> So many developers my age have had plenty of chances to ditch coding and move into management, but we've stuck with coding because it's what we love to do. We'd earn more in management, but writing software is in our blood. We wouldn't stop doing it for anything.
+
+When I was thirteen, I saved up enough money to buy my first computer, a Commodore VIC-20 with a tape drive connected to a 9 inch, black and white TV. Yet despite those humble beginnings, I was captivated from the moment wrote my first line of BASIC code.
+
+Nearly three decades later, the allure of software develop continues to beckon me. Along the way, I've had to double back a few times after following paths I wish I'd never gone down (ASP.Net anyone? ugh.) However, the tides of technology and software development are ever changing and opportunities continually present themselves to those willing to take the chance on something new.
+
+Coding isn't something I do &mdash; coding is what defines who I am. I, like Nick, wouldn't stop doing it for anything.

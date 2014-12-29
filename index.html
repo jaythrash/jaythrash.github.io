@@ -1,0 +1,41 @@
+---
+layout: default
+---
+
+<main role="main">
+
+  <div id="intro-wrap"  data-height="22.222">
+    <div id="intro" class="preload darken">
+      <div class="intro-item" style="background-image: url(/images/tracks.jpg);">
+        <!-- <div class="caption">
+          <h2>Coffee & Code</h2>
+          <p>Repeat as necessary</p>
+        </div>--> <!-- caption -->
+        <div class="photocaption">
+          <h4>Shot by <a href="https://unsplash.com/scharles">S. Charles</a></h4>
+        </div><!-- photocaption -->
+
+      </div><!-- intro -->
+    </div><!-- intro -->        
+  </div><!-- intro-wrap -->
+
+    <div id="main" class="row">
+        <div class="row-content buffer-left buffer-right buffer-bottom clear-after">
+            <div class="column nine">
+                {% for post in paginator.posts %}
+                <article class="clear-after">
+                <div class="column twelve last">
+                  <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+                  <h5 class="meta-post">{{tags prefix=" on "}} - <time datetime="{{date format='YYYY-MM-DD'}}">{{ post.date | date: "%b %-d %Y" }}</time></h5>
+                  <p>{{post.content}}</p> 
+                  </div><!-- column nine -->
+                  </article>
+              {% endfor %}
+
+              {% include pagination.html %}
+
+            </div> <!-- column nine -->
+            {% include sidebar.html %}
+        </div> <!-- row-content -->
+    </div> <!-- row -->
+</main> <!-- main -->

@@ -1,0 +1,17 @@
+---
+layout: post
+title: "5ByBingo"
+date: 2012-02-15 14:47
+comments: true
+categories: blog
+---
+
+![5ByBingo]
+
+The Unofficial [5by5] Internet Radio Bingo Board
+via [Subism]
+
+
+[5by5]: http://5by5.tv
+[5ByBingo]: /images/5byBingo.jpg
+[Subism]: http://diversions.subism.com/post/17385464096/the-unofficial-5by5-internet-radio-bingo-board

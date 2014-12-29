@@ -1,0 +1,19 @@
+---
+layout: post
+title: "Frames, From Studio Neat"
+date: 2012-03-05 14:48
+comments: true
+categories: blog
+---
+
+![Frames Image]
+
+[Frames, a new app from Studio Neat][Frames Link]
+
+>For the past 6 months Tom and I have been working in secret on our new product, our first foray into the software space. It’s been an interesting change of pace from the very public process of using Kickstarter, and we’re so excited to finally show it to the world.
+It’s called Frames, and it is an iPhone (and iPod Touch) app for creating time-lapse and stop motion movies.
+
+*Bought.*
+
+[Frames Link]: http://www.therussiansusedapencil.com/post/18788646155/frames-a-new-app-from-studio-neat
+[Frames Image]: http://media.tumblr.com/tumblr_m07obvVv5g1qzngst.png

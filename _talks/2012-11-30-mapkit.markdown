@@ -1,0 +1,20 @@
+---
+layout: post
+title: "The Places You'll Go! Using MapKit in iOS 6"
+date: 2012-11-30 07:42
+comments: true
+categories: talks
+---
+
+This presentation was given at [CocoaConf Raleigh](http://cocoaconf.com/raleigh-2012/home) on November 30, 2012.
+
+Summary
+-------
+Come learn how to integrate iOS 6 maps directly into your apps and find out what's required to get your app listed in the marketplace of Transit apps.
+
+With the release of iOS 6, Apple has redesigned MapKit from the ground up to use an incredible new vector-based graphics engine. Although this new engine allows for a level of interactivity which simply wasn't possible under previous releases of iOS, it's just as easy to embed standard or custom maps within iOS apps. In addition, the release of iOS 6 has created a whole new opportunity for developers to create Routing applications which can provide region-specific transit information which is integrated directly into the Maps.app.
+
+Slides
+------
+
+<script async class="speakerdeck-embed" data-id="3156ae9062e501318ada5602a661cd6f" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>

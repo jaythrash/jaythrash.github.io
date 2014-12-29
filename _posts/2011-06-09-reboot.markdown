@@ -1,0 +1,10 @@
+---
+layout: post
+title: "Reboot"
+date: 2011-06-09 08:34
+comments: true
+categories: 
+- blog
+---
+
+I think it's time for a fresh start. Let's see where this road takes us...

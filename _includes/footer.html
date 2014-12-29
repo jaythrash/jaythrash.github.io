@@ -1,0 +1,42 @@
+<footer role="contentinfo">
+    <div class="row">
+        <div class="row-content buffer clear-after">
+            <section id="top-footer">
+                <div class="widget column three"><!-- la class="widget" è forse generata utomaticamente da wp -->
+                    <h4>Menu</h4>
+                    <ul class="plain">
+                        <li><a href="{{site.baseurl}}">Home</a></li>
+                        <li><a href="{{site.baseurl}}/tag/talks/">Talks</a></li>
+                        <li><a href="https://careers.stackoverflow.com/jaythrash">Resume</a></li>
+                    </ul>
+                </div>
+                <div class="widget column three">
+                    <h4>My Apps</h4>
+                    <ul class="plain">
+                        <li><a href="https://itunes.apple.com/us/app/the-covert-cocktail/id436761971?mt=8">The Covert Cocktail</a></li>
+                        <li><a href="https://itunes.apple.com/us/app/drive-time/id533100229?mt=8">DriveTime</a></li>
+                    </ul>
+                </div>                              
+                <div class="widget column three">
+                    <h4>Widget</h4>
+                    <p>Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.</p>
+                </div>              
+                <div class="widget meta-social column three">
+                    <h4>Follow Along</h4>
+                    <ul class="inline">
+                        <li><a href="http://twitter.com/jaythrash" class="twitter-share border-box"><i class="fa fa-twitter fa-lg"></i></a></li>
+                    </ul>
+                </div>                                                      
+            </section><!-- top-footer -->
+            <section id="bottom-footer">
+                <p class="keep-left">&copy; {{date format="YYYY"}} <a href="site.baseurl" alt="{{ site.title }}">{{ site.title }}</a>. All Rights Reserved.</p>
+            </section><!-- bottom-footer -->            
+        </div><!-- row-content -->  
+    </div><!-- row -->  
+</footer>
+
+{{! The main JavaScript file for Beetle }}
+<script src="https://code.jquery.com/jquery.js"></script>
+<script src="https://maps.googleapis.com/maps/api/js?sensor=false"></script>        
+<script type="text/javascript" src="{{ "/js/plugins.js" | prepend: site.baseurl }}"></script>
+<script type="text/javascript" src="{{ "/js/beetle.js" | prepend: site.baseurl }}"></script>

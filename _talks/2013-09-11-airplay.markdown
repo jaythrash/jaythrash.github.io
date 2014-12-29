@@ -1,0 +1,22 @@
+---
+layout: post
+title: "AirPlay: Creating Apps with (Split) Personality"
+date: 2013-09-11 07:42
+comments: true
+categories: talks
+---
+
+Presentation originally given at [360iDev](http://360idev.com) in Denver, CO on September 11, 2013.
+
+Summary
+-------
+An overview of how to create AirPlay Dual Screen apps. AirPlay Dual Screen an underused feature of iOS which allows you to create apps which don't just simply mirror output to Apple TV, but use Apple TV as a secondary screen and display different content on the TV versus what is on the iOS device.
+
+Video
+-----
+<iframe src="//player.vimeo.com/video/75227982" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
+Slides
+------
+
+<script async class="speakerdeck-embed" data-id="284cb4a0fd320130de1c5e395d13c648" data-ratio="1.2994923857868" src="//speakerdeck.com/assets/embed.js"></script>

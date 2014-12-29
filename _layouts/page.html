@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+
+{% include head.html %}
+
+<!-- {{body_class}} -->
+<body class="single single-post">
+
+    {% include header.html %}
+
+	<main role="main">
+		{% if page.header-image %}
+		<div id="intro-wrap">
+			<div id="intro" class="preload">
+				<div class="intro-item" style="background-image: url({{page.header-image}});">
+					<div class="photocaption">
+						<h4>{{page.header-caption}}</h4>
+					</div><!-- photocaption -->
+				</div>
+			</div><!-- intro -->				
+		</div><!-- intro-wrap -->
+		{% endif %}
+
+
+	    <div id="main" class="row">
+	        <div class="row-content buffer-left buffer-right buffer-bottom clear-after">
+	            <div class="post-area clear-after">
+	                <article role="main" class="column nine">
+	                    <h1>{{page.title}}</h1>
+	                    <p>{{content}}</p>
+	                </article>
+
+	                {% include sidebar.html %}
+
+	            </div>
+	        </div>
+	    </div>
+	</main>
+
+    {% include footer.html %}
+
+</body>
+</html>
+
+

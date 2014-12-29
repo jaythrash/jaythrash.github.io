@@ -1,0 +1,11 @@
+<div id="pagination">
+	<ul class="clear-after reset plain">
+		{% if paginator.previous_page %}
+		<li id="older" class="pagination-nav"><a href="{{ paginator.previous_page_path }}/" class="button transparent aqua"><i class="fa fa-chevron-left"></i><span class="label">Newer</span></a></li 
+		{% endif %}
+
+		{% if paginator.next_page %}
+		<li id="newer" class="pagination-nav"><a href="{{ paginator.next_page_path }}/" class="button transparent aqua"><span class="label">Older</span><i class="fa fa-chevron-right"></i></a></li>	
+		{% endif %}
+	</ul>
+</div>

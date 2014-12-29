@@ -1,0 +1,20 @@
+---
+layout: post
+title: "5by5 Radio App"
+date: 2012-05-16 10:59
+comments: true
+link: http://itunes.apple.com/us/app/5by5-radio/id520847556?mt=8
+categories: blog
+---
+
+It's quite obvious from my [Recommended page][1] that I'm a big fan of [Dan Benjamin's][2] [5by5 Network][3] of podcasts. On any given work day, I typically have the [5by5 Live Stream][4] running in the background while I bang away in Xcode.  
+
+The recently released [5by5 Radio App][5] enhances the live listening experience by providing easy access to the live broadcast schedule and in-app notifications for when shows are going live.  During off-air moments, the app streams prior episodes via the "Best of 5by5" feed.
+
+Highly recommended!
+
+[1]: /recommended
+[2]: http://danbenjamin.com
+[3]: http://5by5.tv
+[4]: http://5by5.fm
+[5]: http://itunes.apple.com/us/app/5by5-radio/id520847556?mt=8
