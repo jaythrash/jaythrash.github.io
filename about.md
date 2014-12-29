@@ -4,8 +4,6 @@ title: Hello...
 tags:
 modified: 2014-01-17
 permalink: about/
-header-image: /images/me.jpg
-header-caption: Photography by <a href="https://www.flickr.com/photos/abunur/14853415299/in/set-72157646769297156/">Fuad Kamal</a>
 ---
 
 I'm Jay Thrash and I'm a software developer who spends most of his time these days building iOS apps for the iPhone and iPad.  In the event I need to build a website, Ruby on Rails is my framework of choice. 
@@ -18,7 +16,6 @@ If my coffee mug within reach, it's typically filled with an amazing *locally* r
 
 I'm not a heavy user of Twitter, but I can be found there under the cleverly original handle of [@jaythrash](http://twitter.com/jaythrash).
 
-Colophon
---------
+## Colophon
 
 This site is powered by [Jekyll](http://http://jekyllrb.com) using a customized version of the [Beetle Theme](http://themes.mokaine.com/beetle-html/home-01.html).

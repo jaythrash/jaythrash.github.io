@@ -14,6 +14,9 @@ Over the past couple of months, I've had the pleasure of being the guest on a co
 
 * [iPhreaks Ep. 078](http://devchat.tv/iphreaks/078-iphreaks-show-skinny-controllers-with-jay-thrash): This opportunity came about as a result of my buddy [Alondo Brewington] who asked if I'd be interested in joining his fellow co-hosts of iPhreaks for an episode or two. In this first appearance, we had a lively discussion on the importance of reducing the complexity of your View Controllers and techniques for accomplishing that goal.
 
+* [iPhreaks Ep. 085](http://devchat.tv/iphreaks/085-iphreaks-show-prototyping-with-jay-thrash): For my second appearance on iPhreaks, we covered prototyping and its valuable role in the app development process. Check the show notes for some of my favorite prototyping tools (both analog and digital).
+
+
 [Recorded in the hallways]: https://www.flickr.com/photos/abunur/15181013796/in/set-72157646769297156
 
 [ViewController talk at 360iDev]: http://jaythrash.com/blog/2014/08/25/building-better-viewcontrollers

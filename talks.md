@@ -6,13 +6,9 @@ sharing: true
 footer: true
 category: talks
 permalink: talks/
-header-image: /images/talks.jpg
-header-caption: Speaking at 360iDev. Photography by <a href="https://www.flickr.com/photos/abunur/15045009501/in/set-72157646769297156">Fuad Kamal</a>
 ---
 
-I consider myself quite fortunate that my career has led me to a point where I can make a living developing iOS applications; but not simply because I enjoy using the amazing devices the platform powers, but because of the incredible development community that has embraced it.
-
-As a way of paying it forward, I'm always looking for opportunities and events where I can share what I've learned with fellow developers. The venues were I've been honored to present include: [360iDev](http://360idev.com), [CocoaConf](http://cocoaconf.com), and my [local CocoaHeads chapter](http://www.meetup.com/nscoderrtp/).
+I'm always looking for opportunities and events where I can share what I've learned with fellow app designers and developers. The venues were I've been honored to present include: [360iDev](http://360idev.com), [CocoaConf](http://cocoaconf.com), and my [local CocoaHeads chapter](http://www.meetup.com/nscoderrtp/).
 
 If you would like me to speak at your event, please contact via email – you can reach me at *jay at jaythrash.com*, or [@jaythrash on twitter](http://twitter.com/jaythrash).
 
