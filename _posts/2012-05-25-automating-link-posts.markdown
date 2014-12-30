@@ -3,7 +3,7 @@ layout: post
 title: "⌘+1 (How I Blog with Keyboard Maestro and TextMate) — The Brooks Review"
 date: 2012-05-25 11:12
 comments: false
-link: http://brooksreview.net/2011/03/cmd-one/
+external-url: http://brooksreview.net/2011/03/cmd-one/
 categories: blog
 ---
 

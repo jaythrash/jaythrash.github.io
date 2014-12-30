@@ -3,7 +3,7 @@ layout: post
 title: "The Comic Shack #6: Pulled Back In"
 date: 2012-07-12 23:41
 comments: false
-link: http://5by5.tv/comicshack/6
+external-url: http://5by5.tv/comicshack/6
 categories: blog
 ---
 

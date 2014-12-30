@@ -3,7 +3,7 @@ layout: post
 title: "One-Ingredient Ice Cream"
 date: 2012-05-07 23:00
 comments: true
-link: http://www.thekitchn.com/thekitchn/tips-techniques/stepbystep-instructions-for-oneingredient-ice-cream-097170
+external-url: http://www.thekitchn.com/thekitchn/tips-techniques/stepbystep-instructions-for-oneingredient-ice-cream-097170
 categories: blog
 ---
 ![Banana Icecream]

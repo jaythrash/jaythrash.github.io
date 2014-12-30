@@ -3,7 +3,7 @@ layout: post
 title: "CheatSheet"
 date: 2012-05-29 08:41
 comments: false
-link: http://www.cheatsheetapp.com/CheatSheet/
+external-url: http://www.cheatsheetapp.com/CheatSheet/
 categories: blog
 ---
 

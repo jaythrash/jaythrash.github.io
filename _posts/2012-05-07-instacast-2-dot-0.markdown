@@ -3,7 +3,7 @@ layout: post
 title: "Instacast 2.0 Available"
 date: 2012-05-07 21:54
 comments: true
-link: http://vemedio.com/blog/posts/instacast-2-0-available
+external-url: http://vemedio.com/blog/posts/instacast-2-0-available
 categories: blog
 ---
 

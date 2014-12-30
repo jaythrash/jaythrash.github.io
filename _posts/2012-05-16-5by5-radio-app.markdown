@@ -3,7 +3,7 @@ layout: post
 title: "5by5 Radio App"
 date: 2012-05-16 10:59
 comments: true
-link: http://itunes.apple.com/us/app/5by5-radio/id520847556?mt=8
+external-url: http://itunes.apple.com/us/app/5by5-radio/id520847556?mt=8
 categories: blog
 ---
 
