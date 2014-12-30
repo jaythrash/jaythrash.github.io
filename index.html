@@ -21,11 +21,15 @@ layout: default
 
     <div id="main" class="row">
         <div class="row-content buffer-left buffer-right buffer-bottom clear-after">
-            <div class="column nine">
+            <div class="column twelve">
                 {% for post in paginator.posts %}
                 <article class="clear-after">
                 <div class="column twelve last">
+                  {% if post.external-url %}
+                  <h2><a href="{{ post.external-url }}">{{ post.title }}&rarr;</a></h2>
+                  {% else %}
                   <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+                  {% endif %}
                   <h5 class="meta-post">{{tags prefix=" on "}} - <time datetime="{{date format='YYYY-MM-DD'}}">{{ post.date | date: "%b %-d %Y" }}</time></h5>
                   <p>{{post.content}}</p> 
                   </div><!-- column nine -->
@@ -35,7 +39,6 @@ layout: default
               {% include pagination.html %}
 
             </div> <!-- column nine -->
-            {% include sidebar.html %}
         </div> <!-- row-content -->
     </div> <!-- row -->
 </main> <!-- main -->

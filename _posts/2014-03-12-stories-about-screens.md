@@ -4,7 +4,6 @@ title: "Telling stories about screens for screens"
 date: 2014-03-12 10:20
 comments: true
 categories: 
-- 
 external-url: https://medium.com/p/4f380faecd3f
 ---
 

@@ -3,7 +3,7 @@ layout: post
 title: "The Comic Shack #13: The Dark Knight"
 date: 2012-09-04 10:12
 comments: false
-link: http://5by5.tv/comicshack/13
+external-url: http://5by5.tv/comicshack/13
 categories: blog
 ---
 
