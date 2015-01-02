@@ -1,0 +1,33 @@
+---
+layout: default
+---
+
+<main role="main">
+
+  <div id="intro-wrap"  data-height="22.222">
+    <div id="intro" class="preload darken">
+      <div class="intro-item" style="background-image: url(/images/archive.png);">
+        <div class="caption">
+          <h2>Archives</h2>
+          <p>Repeat as necessary</p>
+        </div> <!-- caption -->
+      </div><!-- intro -->
+    </div><!-- intro -->        
+  </div><!-- intro-wrap -->
+
+    <div id="main" class="row">
+        <div class="row-content buffer-left buffer-right buffer-bottom clear-after">
+            <div class="column twelve">
+              {% for post in site.posts %}
+                {% capture this_year %}{{ post.date | date: '%Y' }}{% endcapture %}
+                {% capture next_year %}{{ post.next.date | date: '%Y' }}{% endcapture %}
+                  {% if this_year != next_year %}
+                    {% if forloop.index != 1 %}</ul>{% endif %}
+                    <h3 class="sub-header">{{ post.date | date: '%Y Posts' }}</h3><ul>
+                  {% endif %}
+                <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+              {% endfor %}
+            </div> <!-- column nine -->
+        </div> <!-- row-content -->
+    </div> <!-- row -->
+</main> <!-- main -->
